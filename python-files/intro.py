@@ -1,7 +1,12 @@
-#python test
-print ('Hello World from VS code')
+#python
+#@ Sanjay VJ
 
-print ('opened an existing repo and alak-bulak committed it. Success = repeat today')
-name = input ("Hiya")
-print()
-print (name)
+import math
+
+#name = input ("Hiya! What's your name?\n")
+
+#print ("Yo " + name)
+
+print ('lcm is ' + str(math.lcm(2,7,13)))
+       
+
