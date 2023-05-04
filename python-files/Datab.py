@@ -3,8 +3,8 @@ import psycopg2
 try:
 
     conn = psycopg2.connect(
-        host="localhost",
-        database="postgresDB",
+        host="localhost:5462",
+        database="dvdrental",
         user="postgresUser",
         password="postgresPW1")
 
