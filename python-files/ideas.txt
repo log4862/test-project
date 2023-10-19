@@ -1,0 +1,6 @@
+math quiz - multiplication
+
+learned optimism quiz
+
+collections - organise data into tuples, lists
+
