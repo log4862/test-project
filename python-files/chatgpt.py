@@ -6,7 +6,7 @@ openai.organization = "org-IFdCb1UZtq9lm1ig7E4k10ZX"
 #openai.Model.list()
 
 #top secret!!
-openai.api_key = "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"
+openai.api_key = ""
 
 completion = openai.ChatCompletion.create(
   model="gpt-3.5-turbo",
