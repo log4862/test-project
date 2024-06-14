@@ -17,3 +17,5 @@ ___
 lists:
 1. Something
 2. Something else
+
+Link: https://en.wikipedia.org/wiki/Conway's_Game_of_Life
